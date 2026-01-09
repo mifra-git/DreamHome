@@ -6,7 +6,8 @@ This project is built using **HTML**, **CSS**, and **JavaScript**.
 ---
 
 ## 🌐 Live Demo
-[View Live Demo](https://mifra-git.github.io/DreamHome/)  
+[View Live Demo](https://mifra-git.github.io/dreamhome/)
+
 
 > Replace `yourusername` with your GitHub username after deploying to GitHub Pages.
 
@@ -31,3 +32,4 @@ This project is built using **HTML**, **CSS**, and **JavaScript**.
 ---
 
 ## 📁 Project Structure
+
